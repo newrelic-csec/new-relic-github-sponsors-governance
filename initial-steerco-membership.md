@@ -4,7 +4,8 @@
 * Jonan Scheffler <jonan@newrelic.com>
 
 ## Diversity, Equity, and Inclusion
-* **ASK FOR NOMINATIONS**
+* **OPEN FOR NOMINATIONS**
+* Tracy Williams (nominee)
 
 ## Engineering
 * Greg Unrein <gunrein@newrelic.com>
@@ -18,7 +19,8 @@
 * *maybe* Jon Rooney <jrooney@newrelic.com>
 
 ## NewRelic.org
-* **ASK FOR NOMINATIONS**
+* **OPEN FOR NOMINATIONS**
+* Matt Shandera (nominee)
 
 ## Open Source Program Office
 * Joel Worrall <jworrall@newrelic.com>
@@ -27,4 +29,5 @@
 ## Product
 * Mark Weitzel <mweitzel@newrelic.com>
 * *maybe* Ramon Guiu <rguiu@newrelic.com>
+* Jemiah Sius <jsius@newrelic.com>
 * **ASK FOR NOMINATIONS**
