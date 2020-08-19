@@ -16,8 +16,6 @@
 ### Confirmed
 * Ben Evans <bevans@newrelic.com>
 * Sharr Creeden <screeden@newrelic.com>
-### Invited
-* Greg Unrein <gunrein@newrelic.com>
 
 ## Marketing
 ### Confirmed
@@ -41,4 +39,4 @@
 ### Invited
 * Mark Weitzel <mweitzel@newrelic.com>
 ### To Be Invited
-* **OPEN FOR NOMINATIONS**
+* Ramon Guiu <rguiu@newrelic.com>
