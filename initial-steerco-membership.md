@@ -24,9 +24,8 @@
 
 ## NewRelic.org
 ### Confirmed
-* Matt Shandera <mshandera@newrelic.com>
-### Invited
 * Erin Dieterich <edieterich@newrelic.com>
+* Matt Shandera <mshandera@newrelic.com>
 
 ## Open Source Program Office
 ### Confirmed
