@@ -9,20 +9,15 @@
 ### Confirmed
   
 ### Invited
-  
-### To Be Invited
 * Tracy Williams <twilliams@newrelic.com>
 * Rachel Parrott <rparrott@newrelic.com>
 
 ## Engineering
 ### Confirmed
-  
-### Invited
-  
-### To Be Invited
-* Greg Unrein <gunrein@newrelic.com>
 * Ben Evans <bevans@newrelic.com>
 * Sharr Creeden <screeden@newrelic.com>
+### Invited
+* Greg Unrein <gunrein@newrelic.com>
 
 ## Marketing
 ### Confirmed
@@ -33,10 +28,8 @@
 ### Confirmed
   
 ### Invited
-  
-### To Be Invited
-* Erin Dieterich <edieterich@newrelic.com>
 * Matt Shandera <mshandera@newrelic.com>
+* Erin Dieterich <edieterich@newrelic.com>
 
 ## Open Source Program Office
 ### Confirmed
@@ -45,10 +38,8 @@
 
 ## Product Management
 ### Confirmed
-  
-### Invited
-  
-### To Be Invited
-* Mark Weitzel <mweitzel@newrelic.com>
 * Jemiah Sius <jsius@newrelic.com>
+### Invited
+* Mark Weitzel <mweitzel@newrelic.com>
+### To Be Invited
 * **OPEN FOR NOMINATIONS**
