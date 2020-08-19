@@ -2,8 +2,6 @@
 
 ## Developer Relations
 ### Confirmed
-  
-### Invited
 * Jonan Scheffler <jonan@newrelic.com>
 * Nočnica Fee <nfee@newrelic.com>
 
