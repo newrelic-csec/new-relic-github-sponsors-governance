@@ -9,8 +9,8 @@
 ### Confirmed
   
 ### Invited
-* Tracy Williams <twilliams@newrelic.com>
 * Rachel Parrott <rparrott@newrelic.com>
+* Tracy Williams <twilliams@newrelic.com>
 
 ## Engineering
 ### Confirmed
@@ -36,7 +36,8 @@
 ## Product Management
 ### Confirmed
 * Jemiah Sius <jsius@newrelic.com>
-### Invited
 * Mark Weitzel <mweitzel@newrelic.com>
+### Invited
+  
 ### To Be Invited
 * Ramon Guiu <rguiu@newrelic.com>
