@@ -4,19 +4,17 @@
 ### Confirmed
   
 ### Invited
-  
-### To Be Invited
 * Jonan Scheffler <jonan@newrelic.com>
 * Nočnica Fee <nfee@newrelic.com>
 
-## Diversity, Equity, and Inclusion
+## Diversty, Equity, and Inclusion
 ### Confirmed
   
 ### Invited
   
 ### To Be Invited
 * Tracy Williams <twilliams@newrelic.com>
-* **OPEN FOR NOMINATIONS**
+* Rachel Parrott <rparrott@newrelic.com>
 
 ## Engineering
 ### Confirmed
@@ -30,10 +28,6 @@
 
 ## Marketing
 ### Confirmed
-  
-### Invited
-  
-### To Be Invited
 * Gavin Johnson <gavinjohnson@newrelic.com>
 * Vi Tran <vitran@newrelic.com>
 
@@ -43,15 +37,15 @@
 ### Invited
   
 ### To Be Invited
+* Erin Dieterich <edieterich@newrelic.com>
 * Matt Shandera <mshandera@newrelic.com>
-* **OPEN FOR NOMINATIONS**
 
 ## Open Source Program Office
 ### Confirmed
 * Joel Worrall <jworrall@newrelic.com>
 * Melissa Klein <mklein@newrelic.com>
 
-## Product
+## Product Management
 ### Confirmed
   
 ### Invited
