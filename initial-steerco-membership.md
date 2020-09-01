@@ -7,9 +7,8 @@
 
 ## Diversty, Equity, and Inclusion
 ### Confirmed
-  
-### Invited
 * Rachel Parrott <rparrott@newrelic.com>
+### Invited
 * Tracy Williams <twilliams@newrelic.com>
 
 ## Engineering
