@@ -36,4 +36,4 @@
 * Jemiah Sius <jsius@newrelic.com>
 * Mark Weitzel <mweitzel@newrelic.com>
 ### Invited
-* Ramon Guiu <rguiu@newrelic.com>
+* Erik Lucus <elucus@newrelic.com>
