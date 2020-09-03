@@ -35,5 +35,4 @@
 ### Confirmed
 * Jemiah Sius <jsius@newrelic.com>
 * Mark Weitzel <mweitzel@newrelic.com>
-### Invited
 * Erik Lucus <elucus@newrelic.com>
