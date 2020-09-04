@@ -1,5 +1,9 @@
 # New Relic + GitHub Sponsors Eligibility
 
+## All
+To be considered for sponsorship, the contributor, project, or organization must:
+* At a minimum, be on the GitHub Sponsors waitlist, preferably already have GitHub Sponsors enabled.
+
 ## Contributors
 To be considered for sponsorship, a contributor must:
 * Contribute to open source projects on GitHub.
