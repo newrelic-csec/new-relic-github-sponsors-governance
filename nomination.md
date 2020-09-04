@@ -13,4 +13,11 @@ Nominations must include:
 * Any notes on why New Relic should sponsor the nominee.
 
 ## Nomination by the external community
-TBD
+Anybody outside of New Relic can nominate contributors, projects, or organizations for sponsorship if the nominee satisfies the eligibility requirements by submitting their nomination through [this form](https://forms.gle/o5KUKHndGVwWg4hA8).
+
+Nominations must include:
+* Nominee name
+* Nominee GitHub url
+* Contributor, Project, or Organization?
+* Confirmation that nominee meets eligibility requirements?
+* Any notes on why New Relic should sponsor the nominee.
