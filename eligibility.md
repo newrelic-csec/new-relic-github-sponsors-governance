@@ -3,6 +3,7 @@
 ## All
 To be considered for sponsorship, the contributor, project, or organization must:
 * At a minimum, be on the GitHub Sponsors waitlist, preferably already have GitHub Sponsors enabled.
+* Not have previously been a recipient of sponsorship from New Relic's GitHub Sponsor's program.
 
 ## Contributors
 To be considered for sponsorship, a contributor must:
@@ -23,4 +24,4 @@ To be considered for sponsorship, an organization must:
 * Maintain or contribute to projects with open source licenses ([Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) an [MIT](https://opensource.org/licenses/MIT) are our recommended licenses).
 * Have an approved code of conduct ([Contributor Covenant](https://www.contributor-covenant.org), [Django Code of Conduct](https://www.djangoproject.com/conduct/), and [Citizen Code of Conduct](http://citizencodeofconduct.org) are our recommended codes of conduct).
 
-*\* Preference for organizations we contribute to, who maintain projects we contribute to, or who's projects work with New Relic.*
+*\* Preference for organizations we contribute to, who maintain projects we contribute to, or whose projects work with New Relic.*
